@@ -1,0 +1,8 @@
+{
+  "name": "perfil-pessoal",
+  "version": "1.0.0",
+  "description": "Site de perfil pessoal",
+  "scripts": {
+    "start": "npx http-server"
+  }
+}
